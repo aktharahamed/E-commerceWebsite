@@ -841,4 +841,46 @@ section{
         margin-top:-70%;
      }
 
+     /* Clients */
+     .clients{
+        flex-direction: column;
+        margin-top:60vh;
+        padding-top:50px;
+        padding-bottom: 111px;
+        gap:60px;
+     }
+
+     /* Shop Cards */
+     .shop-cards{
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+        gap:15px;
+        padding-left: 41px;
+        padding-right:28px;
+     }
+     .card-main{
+        width:344px;
+        height:556px;
+        background-size: cover;
+        margin-right: 0;
+        background-image: url("img/shop-card(0).jpg");
+
+     }
+     .main-card-content{
+        width:346px;
+        height:238px;
+        padding: 60px 106.5px 36px 41px;
+     }
+     .branch1{
+        width: 344px;
+        height: 398px;
+        background-image: url("img/shop-card\ \(1\).jpg");
+     }
+     .branch2{
+        width: 344px;
+        height: 398px;
+        background-size: cover;
+        background-image: url("img/shop-card\ \(2\).jpg");
+     }
 }
