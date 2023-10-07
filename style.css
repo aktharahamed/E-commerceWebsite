@@ -777,7 +777,7 @@ section{
        display:flex;
        flex-direction: column;
        justify-content: flex-start;
-       margin-top:auto;
+       margin-top:auto;  
 
      }
      .hero-content{
