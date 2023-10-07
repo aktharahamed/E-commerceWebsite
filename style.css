@@ -699,7 +699,7 @@ section{
 
 /* Responsive Design -------------------------*/
 @media (max-width:600px) {
-      .clients, .shop-cards, .products, .container1, .container2, .container3, footer{
+ .products, .container1, .container2, .container3, footer{
         display: none;
      }
 
@@ -752,8 +752,6 @@ section{
         background: var(--light-gray-1, #FAFAFA);
         outline:2px solid #252B42 ;
      }
-
-
      .user-login{
         display: none;
      }
