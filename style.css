@@ -955,12 +955,16 @@ section{
     }
 
     /* footer */
+    footer{
+        width:100%
+    }
     .ctr4-follow{
         display: none;
     }
     .ctr4-content{
         justify-content: center;
         align-items: center;
+                width:100%
     }
     .ctr4-content h3{
             margin: 0;
